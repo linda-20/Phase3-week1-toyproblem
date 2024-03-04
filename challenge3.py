@@ -11,4 +11,6 @@ def solution(N):
         result += alphabet
     result += alphabet[:remainder]
     
+     # Return the resulting string
+    return ''.join(result[:N])
     
