@@ -12,7 +12,7 @@ Challenge2.py:
 In this task you are required to find the maximum sum of two numbers in an array whose digits add up to the same value.
 
 challenge3.py: 
-
+This task requires you to generate a string containing as many different lowercase letters as possible, with each letter occurring an equal number of times.
 
 
 ## Table of Contents
