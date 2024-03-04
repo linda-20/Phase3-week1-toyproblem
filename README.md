@@ -22,6 +22,7 @@ This task requires you to generate a string containing as many different lowerca
     * Getting Started
     * Installation
     * Dependencies
+    * Contributing
     * License
 
 ## Technologies Used
@@ -51,6 +52,9 @@ Install the required dependencies:
 ## Dependencies
     * Python 3.9 or higher is recommended for this program as it was developed in version 3.8 but should work on any newer
 
+
+## Contributing
+Contributions to improve the function's efficiency or handle edge cases are welcome. Please open an issue or submit a pull request with your suggestions.
 ## License
 MIT License
 
