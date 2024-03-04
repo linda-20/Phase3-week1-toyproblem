@@ -8,8 +8,10 @@
 Challenge1.py:
  Given an array representing the number of bricks in each box, the task is to distribute the bricks such that each box contains exactly 10 bricks. You can move one brick from a box to its adjacent box (left or right) in one move. The goal is to minimize the total number of moves required.
  
-
 Challenge2.py: 
+In this task you are required to find the maximum sum of two numbers in an array whose digits add up to the same value.
+
+challenge3.py: 
 
 
 
