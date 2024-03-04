@@ -6,4 +6,9 @@ def solution(N):
     
     result = ''
     
+    # Iterate over the alphabet to construct the result string
+    for i in range(repetitions):
+        result += alphabet
+    result += alphabet[:remainder]
+    
     
