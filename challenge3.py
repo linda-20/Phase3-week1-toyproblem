@@ -13,4 +13,7 @@ def solution(N):
     
      # Return the resulting string
     return ''.join(result[:N])
-    
+
+print(solution(3))   
+print(solution(5))   
+print(solution(30)) 
