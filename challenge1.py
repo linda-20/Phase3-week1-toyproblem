@@ -5,3 +5,7 @@ def solution(A):
 
     if total_bricks % box_count != 0:
         return -1
+
+         # Calculate the target number of bricks per box
+    target_bricks = total_bricks // box_count
+    moves = 0
